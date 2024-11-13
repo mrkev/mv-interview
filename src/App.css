@@ -1,0 +1,17 @@
+.App {
+  padding: 36px 48px;
+}
+
+.list {
+  background-color: white;
+}
+
+.listItem {
+  cursor: pointer;
+}
+
+.input {
+}
+
+.typeahead {
+}
